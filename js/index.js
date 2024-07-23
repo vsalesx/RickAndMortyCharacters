@@ -3,10 +3,10 @@ const button2 = document.querySelector('.favorite')
 
 
 button1.addEventListener('click', function () {
-    window.location.href = '../search.html'
+    window.location.href = '/search.html'
 })
 
 button2.addEventListener('click', function(){
-    window.location.href = '../favorites.html'
+    window.location.href = '/favorites.html'
 })
 
